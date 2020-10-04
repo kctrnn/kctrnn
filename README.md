@@ -1,12 +1,13 @@
 ### Hi. I’m kctrnn 👋
 ![kctrnn](https://res.cloudinary.com/hanhiu/image/upload/v1601802422/kctrnn/traf-sL7w1eUfHJQ-unsplash_g5cwun.jpg)
-
+### 📫 Reach me at
+<a href="https://www.instagram.com/kctrnn"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/instagram.svg"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/kctrnn"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/facebook.svg"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/coffee-cup.svg"></a>&nbsp;&nbsp;
 <!--
-### Hi there 👋
-**kctrnn/kctrnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
