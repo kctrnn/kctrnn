@@ -1,6 +1,13 @@
-### Hi there 👋
+![kctrnn](https://res.cloudinary.com/hanhiu/image/upload/v1601802422/kctrnn/traf-sL7w1eUfHJQ-unsplash_g5cwun.jpg)
+
+### Hi. I’m kctrnn 👋
+
+
+
+
 
 <!--
+### Hi there 👋
 **kctrnn/kctrnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
