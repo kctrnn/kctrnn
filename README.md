@@ -1,10 +1,5 @@
-![kctrnn](https://res.cloudinary.com/hanhiu/image/upload/v1601802422/kctrnn/traf-sL7w1eUfHJQ-unsplash_g5cwun.jpg)
-
 ### Hi. I’m kctrnn 👋
-
-
-
-
+![kctrnn](https://res.cloudinary.com/hanhiu/image/upload/v1601802422/kctrnn/traf-sL7w1eUfHJQ-unsplash_g5cwun.jpg)
 
 <!--
 ### Hi there 👋
