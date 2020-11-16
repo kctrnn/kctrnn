@@ -1,5 +1,5 @@
 ### Hi. I’m kctrnn 👋
-![kctrnn](https://res.cloudinary.com/hanhiu/image/upload/v1601802422/kctrnn/traf-sL7w1eUfHJQ-unsplash_g5cwun.jpg)
+![kctrnn](https://res.cloudinary.com/hanhiu/image/upload/v1605552308/kctrnn/nathan-fertig-scbYOgVyb8Q-unsplash_p8qixe.jpg)
 ### 📫 Reach me at
 <a href="https://www.instagram.com/kctrnn"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/instagram.svg"></a>&nbsp;&nbsp;
 <a href="#"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/linkedin.svg"></a>&nbsp;&nbsp;
