@@ -1,10 +1,8 @@
-
-![kctrnn](https://res.cloudinary.com/hanhiu/image/upload/v1605552308/kctrnn/nathan-fertig-scbYOgVyb8Q-unsplash_p8qixe.jpg)
 ### Hi. I’m kctrnn 👋 - 📫 Reach me at
-
 <a href="#"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/linkedin.svg"></a>&nbsp;&nbsp; 
 <a href="#"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/twitter.svg"></a>&nbsp;&nbsp; 
 <a href="#"><img height="30" src="https://raw.githubusercontent.com/kctrnn/kctrnn/main/coffee-cup.svg"></a>&nbsp;&nbsp;
+![kctrnn](https://res.cloudinary.com/hanhiu/image/upload/v1605552308/kctrnn/nathan-fertig-scbYOgVyb8Q-unsplash_p8qixe.jpg)
 
 <!--
 Here are some ideas to get you started:
