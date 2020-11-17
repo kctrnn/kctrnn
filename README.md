@@ -1,4 +1,4 @@
-### hi, i’m kctrnn 👋
+### Hi, i’m kctrnn 👋
 
 ![kctrnn](https://res.cloudinary.com/hanhiu/image/upload/v1601802705/kctrnn/tim-goedhart-vnpTRdmtQ30-unsplash_ot6ubr.jpg)
 
