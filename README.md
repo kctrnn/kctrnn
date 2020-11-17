@@ -8,7 +8,7 @@
 <a href="#"><img src="f.svg" width="30" height="30"></a>&nbsp;&nbsp;
 <a href="#"><img src="twitter.svg" width="30" height="30"></a>&nbsp;&nbsp;
 <a href="#"><img src="dribbble.svg" width="30" height="30"></a>&nbsp;&nbsp;
-<a href="#"><img src="linkedin.svg" width="30" height="30"></a>&nbsp;&nbsp;
+<a href="#"><img src="linkedinnn.svg" width="30" height="30"></a>&nbsp;&nbsp;
 <a href="#"><img src="coffee-cup.svg" width="30" height="30"></a>
 
 
