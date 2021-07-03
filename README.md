@@ -9,7 +9,7 @@ Be my friend on
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kctrnn)
 
-![kctrnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kctrnn&show_icons=true)
+<!-- ![kctrnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kctrnn&show_icons=true) -->
 
 
 
