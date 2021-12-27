@@ -15,11 +15,11 @@ Pet projects that I have completed 🚀
 
 |  #  | Title              | Built with                                                     |                       Code                       |                        Demo                         |
 | :-: | :----------------- | :------------------------------------------------------------- | :----------------------------------------------: | :-------------------------------------------------: |
-|  1  | Student management | `Typescript` `Redux toolkit` `Redux saga` `Material UI`        |    [👨‍🎓](https://github.com/kctrnn/learn-saga)    | [Go](https://student-management-kctrnn.netlify.app) |
-|  2  | Post app           | `Vanilla Javascript` `Lightbox2`                               |   [📮](https://github.com/kctrnn/post-app-js)    |     [Go](https://kctrnn.github.io/post-app-js)      |
-|  3  | Note mine          | `Redux toolkit` `react-contenteditable` `react-beautiful-dnd`  |    [📔](https://github.com/kctrnn/note-mine)     |         [Go](https://notemine.netlify.app)          |
-|  4  | Photo app          | `React bootstrap` `Redux toolkit`                              |    [📸](https://github.com/kctrnn/photo-app)     |     [Go](https://photo-app-kctrnn.netlify.app)      |
-|  5  | Authentication     | `Expressjs` `Cloudinary` `JWT` / `Material UI` `Redux toolkit` | [🛺](https://authentication-kctrnn.netlify.app/) |  [Go](https://authentication-kctrnn.netlify.app/)   |
+|  1  | Student management | `typescript` `redux toolkit` `redux saga` `material ui`        |    [👨‍🎓](https://github.com/kctrnn/learn-saga)    | [Go](https://student-management-kctrnn.netlify.app) |
+|  2  | Post app           | `vanilla javascript` `lightbox2`                               |   [📮](https://github.com/kctrnn/post-app-js)    |     [Go](https://kctrnn.github.io/post-app-js)      |
+|  3  | My unsplash          | `redux toolkit` `masonic` `styled-components`  |    [📔](https://github.com/kctrnn/my-unsplash)     |         [Go](https://my-unsplash-kctrnn.vercel.app)          |
+|  4  | Photo app          | `react bootstrap` `redux toolkit`                              |    [📸](https://github.com/kctrnn/photo-app)     |     [Go](https://photo-app-kctrnn.netlify.app)      |
+|  5  | Authentication     | `expressjs` `cloudinary` `jsonwebtoken` / `material ui` `redux toolkit` | [🛺](https://authentication-kctrnn.netlify.app/) |  [Go](https://authentication-kctrnn.netlify.app/)   |
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kctrnn) -->
 
