@@ -6,7 +6,6 @@ Be my friend on
 
 - [LinkedIn](https://www.linkedin.com/in/kctrnn/)
 - [Blog](https://kctrnn.vercel.app/)
-<!-- - [Twitter](https://twitter.com/kctrnn) -->
 - [Github](https://github.com/kctrnn)
 - [Facebook](https://www.facebook.com/kctrnn/)
 
